@@ -31,3 +31,4 @@ C:\Users\Usuario\Desktop\Proyectos\csharapigenerica\obj\Debug\net8.0\refint\csha
 C:\Users\Usuario\Desktop\Proyectos\csharapigenerica\obj\Debug\net8.0\csharapigenerica.pdb
 C:\Users\Usuario\Desktop\Proyectos\csharapigenerica\obj\Debug\net8.0\csharapigenerica.genruntimeconfig.cache
 C:\Users\Usuario\Desktop\Proyectos\csharapigenerica\obj\Debug\net8.0\ref\csharapigenerica.dll
+C:\Users\Usuario\Desktop\Proyectos\csharapigenerica\obj\Debug\net8.0\csharapigenerica.sourcelink.json
